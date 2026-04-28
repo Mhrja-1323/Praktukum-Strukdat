@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-struct Hewan {
+struct Hewan {  
     int id;
     string nama;
     string jenis;
